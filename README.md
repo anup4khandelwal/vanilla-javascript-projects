@@ -6,4 +6,4 @@
 2. [Movie Seat Booking](https://anup4khandelwal.github.io/vanilla-javascript-projects/movie-seat/)
 3. [Exchange Rate Calculator](https://anup4khandelwal.github.io/vanilla-javascript-projects/exchange-rate/)
 4. [Dom Array Methods](https://anup4khandelwal.github.io/vanilla-javascript-projects/dom-array-methods/)
-5. [Modal Menu Slider](https://anup4khandelwal.github.io/vanilla-javascript-projects/modal-menu-slider/)
+5. [Modal Menu Slider](https://anup4khandelwal.github.io/vanilla-javascript-projects/modal-menu-slider/index.html)
